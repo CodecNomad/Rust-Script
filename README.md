@@ -1,5 +1,5 @@
 # Rust-Script
-It's pretty shit; if you decide to copy, use or get inspiration, from it give me a star!
+It's pretty shit; if you decide to copy, use or get inspiration from it, give me a star!
 # Undetected as of 2023 10 18 22 57
 Cheaters get banned. I am not banned; it seems to be allowed.
 # Disclaimer
